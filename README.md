@@ -12,4 +12,5 @@ git Clone ADRESSE #Kopierer git dir fra valgt adresse til lokalt git directory
 git status #Sammelinker lokale filer og filer på server
 git add #Registrer ny fil
 git commit -m "message" #Legg til endringer i git repository (lokalt)
-git push #Syncer med serveren
+git push #Laster opp endringer tiul serveren
+git pull #Laster ned endringer fra serveren
